@@ -5,7 +5,7 @@
 
     <groupId>com.eshioji</groupId>
     <artifactId>metrics-cloudwatch</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <name>CloudWatch Integration for Metrics</name>
     <packaging>jar</packaging>
